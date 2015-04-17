@@ -1,3 +1,10 @@
+//******************************************
+//ACS: Just a head's up: This "Plane" code is not doing what I want it to do. I'm a little turned around,
+//  especially with how to get the plane to have any vertical re-assignment of location.
+//  Also, I don't know how to use virtual time to move the plane "automatically" down the road.
+//  Also, I haven't made an array of Planes yet either because I'm working on the class itself.
+//******************************************
+
 #include "Plane.h"
 
 Plane::Plane(){
